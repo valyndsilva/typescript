@@ -1,4 +1,4 @@
-# Sprits used:
+# Scripts used:
 
 - npm init (Create the package.json file)
 - npm install typescript -D (add ts compiler)
