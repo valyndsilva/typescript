@@ -41,9 +41,11 @@ if (data[5] === "joe") {
 }
 
 // Loops
+// For Loop
 for (let i = 0; i < 10; i++) {
   console.log(i);
 }
-
+// ForEach Loop
 myNumbers.forEach((a) => console.log(a));
+// Map
 const multipliedValues = myNumbers.map((a) => a * 10);
