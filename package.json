@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "- npm init (Create the package.json file) - npm install typescript -D (add ts compiler)   -npm install ts-node -D (wrapper add node that makes ts files work as expected)   -npx tsc --init (creates tsconfig.json file)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valyndsilva/typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valyndsilva/typescript/issues"
+  },
+  "homepage": "https://github.com/valyndsilva/typescript#readme",
+  "devDependencies": {
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  }
+}
